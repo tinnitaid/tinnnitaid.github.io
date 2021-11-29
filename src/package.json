@@ -1,0 +1,20 @@
+{
+  "name": "stop-tinnitus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/scripts/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server -p 8081 -a localhost -c 0",
+    "build": "workbox injectManifest workbox-config.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^0.12.3",
+    "workbox-cli": "^3.4.1"
+  },
+  "dependencies": {
+    "ecstatic": "^4.1.2"
+  }
+}
