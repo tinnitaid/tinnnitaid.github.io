@@ -73,7 +73,7 @@ var playStopWhiteNoise = function () {
             alert("Restart is needed");
             // window.location = 'http://127.0.0.1:8881/therapy.html'; // testing
             window.location =
-              "https://www.tafhub.com/labs/stoptinnitus/therapy.html";
+              "https://tinnitaid.github.io/therapy.html";
           }
         },
         function (reason) {
@@ -93,7 +93,7 @@ var playStopWhiteNoise = function () {
       whiteNoiseNode.stop(0);
       whiteNoiseNode.disconnect();
       // window.location = 'http://127.0.0.1:8881/therapy.html'; // testing
-      window.location = "https://www.tafhub.com/labs/stoptinnitus/therapy.html"; //production
+      window.location = "https://tinnitaid.github.io/therapy.html"; //production
     }
     gainNode.disconnect();
   }
@@ -214,7 +214,7 @@ function getNoise(noise) {
     noiseNode = brownNoiseNode;
   } else {
     alert("Restart is needed");
-    window.location = "https://www.tafhub.com/labs/stoptinnitus/therapy.html";
+    window.location = "https://tinnitaid.github.io/therapy.html";
   }
   playStopWhiteNoise();
 }
@@ -246,7 +246,7 @@ var playStopWhiteNoise = function() {
             alert("Restart is needed");
             window.location = "http://127.0.0.1:8881/therapy.html"; // testing
             window.location =
-              // "https://www.tafhub.com/labs/stoptinnitus/therapy.html"; //production
+              // "https://tinnitaid.github.io/therapy.html"; //production
           }
         },
         function(reason) {
@@ -266,7 +266,7 @@ var playStopWhiteNoise = function() {
       noiseNode.stop(0);
       noiseNode.disconnect();
       window.location = "http://127.0.0.1:8881/therapy.html"; // testing
-      // window.location = "https://www.tafhub.com/labs/stoptinnitus/therapy.html"; //production
+      // window.location = "https://tinnitaid.github.io/therapy.html"; //production
     }
     gainNode.disconnect();
   }

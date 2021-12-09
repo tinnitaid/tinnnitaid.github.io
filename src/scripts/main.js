@@ -110,7 +110,7 @@ var playpause = function () {
             oscillator.start(0);
           } else {
             alert("Restart is needed");
-            window.location = "https://www.tafhub.com/labs/stoptinnitus/";
+            window.location = "https://tinnitaid.github.io/";
 
             // Device other than iOS
             //oscillator.connect(gainNode);
