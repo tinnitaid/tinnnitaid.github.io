@@ -25,12 +25,12 @@ The creating team of the app does not hold any responsibility on how the app is 
     You should have received a copy of the GNU General Public License
     along with this program.  If not, see <https://www.gnu.org/licenses/>.
     
-For the complete license, please refer here: http://tafhub.com/labs/stoptinnitus/LICENSE.txt
+For the complete license, please refer here: http://tinnitaid.github.io/LICENSE.txt
 ************************************************************************
 */
 
 module.exports = {
-  globDirectory: "https://tafhub.com/labs/stoptinnitus/",
+  globDirectory: "https://tinnitaid.github.io/",
   globPatterns: ["img/**.*", "offline.html", "icons/**.*"],
   swSrc: "/labs/stoptinnitus/sw.js",
   swDest: "/labs/stoptinnitus/sw.js",

@@ -6,22 +6,22 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
 <url>
-  <loc>https://tafhub.com/labs/stoptinnitus/</loc>
+  <loc>https://tinnitaid.github.io/</loc>
   <lastmod>2020-06-07T18:52:29+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://tafhub.com/labs/stoptinnitus/index.html</loc>
+  <loc>https://tinnitaid.github.io/index.html</loc>
   <lastmod>2020-06-07T18:52:29+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://tafhub.com/labs/stoptinnitus/detect.html</loc>
+  <loc>https://tinnitaid.github.io/detect.html</loc>
   <lastmod>2020-06-07T18:52:29+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://tafhub.com/labs/stoptinnitus/therapy.html</loc>
+  <loc>https://tinnitaid.github.io/therapy.html</loc>
   <lastmod>2020-06-07T18:52:32+00:00</lastmod>
   <priority>0.80</priority>
 </url>

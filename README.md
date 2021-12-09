@@ -25,11 +25,11 @@ The creating team of the app does not hold any responsibility on how the app is 
     You should have received a copy of the GNU General Public License
     along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
-For the complete license, please refer here: http://tafhub.com/labs/stoptinnitus/LICENSE.txt
+For the complete license, please refer here: http://tinnitaid.github.io/LICENSE.txt
 ************************************************************************
 -->
 <p align="center">
-  <img alt="Tinnitaid" src="https://tafhub.com/labs/stoptinnitus/src/img/stoptinnitus_logo_blue.png" height="142"/>
+  <img alt="Tinnitaid" src="https://tinnitaid.github.io/src/img/stoptinnitus_logo_blue.png" height="142"/>
   <p align="center">
     <a href="https://github.com/trifwnas/Tinnitaid/blob/master/LICENSE.txt"><img alt="GPLv3 License" src="https://img.shields.io/badge/License-GPLv3-red.svg"></a>
     <a href="https://twitter.com/trifwnas"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%40trifwnas-blue.svg"></a>
@@ -71,7 +71,7 @@ Download Tinnitaid by cloning the Git repository:
 
 ## Usage
 
-Just go to: **[https://tafhub.com/labs/stoptinnitus/](https://tafhub.com/labs/stoptinnitus/)**
+Just go to: **[https://tinnitaid.github.io/](https://tinnitaid.github.io/)**
 
 ## Known bugs so far
 
